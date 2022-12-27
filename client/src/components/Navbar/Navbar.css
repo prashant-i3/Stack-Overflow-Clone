@@ -1,4 +1,4 @@
-nav{
+.main-nav{
     min-height: 50px;
     width: 100%;
     margin: 0% auto;
@@ -60,7 +60,7 @@ nav{
     border-radius: 3px;
 }
 
-.navbar form .search-icon{
+.navbar form .search-icon {
     position: absolute;
     left: 25px;
     top: 8px;
